@@ -1,6 +1,12 @@
 ## pythonバージョン管理
 pyenvを使う。
 
+## pythonの公式サイト関係
+- [公式にチュートリアルあった。](https://docs.python.org/ja/3.6/tutorial/index.html#tutorial-index)
+- [言語の仕様リファレンス](https://docs.python.org/ja/3.6/reference/index.html)
+  - [pythonの公式リファレンスはBNF記法で書かれているので初見だとちょっと読めない。](https://qiita.com/RiSE_blackbird/items/8c3ea32bc2cb9b4fc00e)
+    - [これも正規表現に似てるらしい。](https://hirogl-python.hatenadiary.org/entry/20100506/1273158693)
+
 ## パッケージ管理
 pipを使う。
 https://gammasoft.jp/python/python-library-install/
