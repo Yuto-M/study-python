@@ -24,5 +24,7 @@ https://qiita.com/odoku/items/97100c9fa20449b72588
     - https://pep8-ja.readthedocs.io/ja/latest/#
     - https://python.ms/pep8/
   - インデントはスペース4つがpep8準拠なのでvscodeの設定を調整する。
-    - この記事のtabSize指定を4に変えたら良き。
-      - https://qiita.com/ksh-fthr/items/7cf8b5f2fde82d1c6bf7#visual-studio-code-%E3%81%AE%E4%BD%9C%E6%A5%AD%E7%94%A8%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B7%A8%E9%9B%86
+    - [この記事の](https://qiita.com/ksh-fthr/items/7cf8b5f2fde82d1c6bf7#visual-studio-code-%E3%81%AE%E4%BD%9C%E6%A5%AD%E7%94%A8%E8%A8%AD%E5%AE%9A%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%82%92%E7%B7%A8%E9%9B%86)tabSize指定を4に変えたら良き。
+
+## anaconda VS 公式版python
+[公式サイト](https://www.python.jp/install/docs/pypi_or_anaconda.html)見たらわかる
