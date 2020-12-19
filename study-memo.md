@@ -14,6 +14,12 @@ https://qiita.com/yuta-38/items/730bf91526f92fe0b41a
 ちなみにpipでインスコされるパッケージがあるリポジトリpypiの呼び名はパイパイらしい。
 https://pypi.org/
 
+## 仮想環境構築方法
+python標準でvenvっていうコマンドがあるのでそれを使う。
+なぜこれを使うというと、普通に[pip installするとグローバルにパッケージがインスコされてしまい](https://qiita.com/overflowfl/items/1db8746b9831bb15e9b5)全てのプロジェクトでパッケージが導入されてしまうが、venvで仮想環境を作ってあげるとpip instalでインスコされるパッケージのパスがグローバルから仮想環境用に変更されるので、特定のプロジェクト毎にパッケージがインスコできるようになるため。
+[venvをactivateすると内部的に$PATHを書き換えてくれている。](https://cod-sushi.com/python-venv/)
+実際の流れは[python-japanが分かりやすい。](https://www.python.jp/install/macos/virtualenv.html)
+
 ## phperがpython入門するための文法とかの記事
 記事内ではpythonのバージョンが2.7らしいのであくまで参考。
 https://qiita.com/odoku/items/97100c9fa20449b72588
